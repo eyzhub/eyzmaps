@@ -256,5 +256,10 @@
    "Chinese (Singapore)":"zh-SG",
    "Chinese (T)":"zh-TW",
    "Zulu":"zu",
-   "Zulu (South Africa)":"zu-ZA"
+   "Zulu (South Africa)":"zu-ZA",
+   "Bambara":"bm",
+   "Kurdish": "ku",
+   "Burmese":"my",
+   "Sango":"sq",
+   "Yiddish":"yi"
 }
