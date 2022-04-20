@@ -23,6 +23,7 @@
 		'iso3166-country-name_en': require('./maps/iso3166-country-name_en'),
 		'iso3166-country-name_fr': require('./maps/iso3166-country-name_fr'),
 		'iso3166-country-name_nl': require('./maps/iso3166-country-name_nl'),
+		'iso3166-country-name_ar': require('./maps/iso3166-country-name_ar'),
 		'iso639-2-language': require('./maps/iso639-2-language'),
 		'kaltura-licensors': require('./maps/kaltura-licensors'),
 		'kmc-countries': require('./maps/kmc-countries'),
