@@ -37,6 +37,7 @@
 		'rfc5646-language_en': require('./maps/rfc5646-language_en'),
 		'rfc5646-language_fr': require('./maps/rfc5646-language_fr'),
 		'rfc5646-language_nl': require('./maps/rfc5646-language_nl'),
+		'rfc5646-language_ar': require('./maps/rfc5646-language_ar'),
 		'rfc5646-name-to-language-tag': require('./maps/rfc5646-name-to-language-tag'),
 		'zoho-uc-languages': require('./maps/zoho-uc-languages')
   };
