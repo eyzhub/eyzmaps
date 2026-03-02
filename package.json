@@ -21,7 +21,6 @@
     "@babel/preset-env": "^7.5.5",
     "babel-loader": "^8.0.6",
     "merge-jsons-webpack-plugin": "^1.0.19",
-    "merge-webpack-plugin": "^0.2.1",
     "webpack": "^4.47.0",
     "webpack-cli": "^3.3.6"
   }
